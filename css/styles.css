@@ -175,6 +175,10 @@ address {
   line-height: inherit;
 }
 
+p{
+  text-align: justify;
+}
+
 ol,
 ul {
   padding-left: 2rem;
